@@ -5,11 +5,14 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px></picture> **About me**
 
-- A passionate Self-taught full stack developer .
+- A passionate Self-taught software engineer .
 -   Exploring new technologies and developing programming insights .
-- 📫 How to reach me alaa.elzeftawy@gmail.com
-- 👨‍💻 All of my projects are currently available at [https://github.com/alaahamed1](https://github.com/alaahamed1)
-- 📝 I regularly write articles on [https://www.linkedin.com/in/alaa-hamed-92a6b9233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/alaa-hamed-92a6b9233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📫 How to reach me <br> <a href="mailto:alaa.elzeftawy@gmail.com"><img src="https://www.vectorlogo.zone/logos/google_plus/google_plus-ar21.svg" height="35"></a>
+
+- 👨‍💻 All of my projects are currently available at 
+<a href="https://github.com/alaahamed1"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="my_github"/>
+- 📝 I regularly write articles on 
+<a href="https://www.linkedin.com/in/alaa-hamed-92a6b9233"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="my_github"/>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
