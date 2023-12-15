@@ -8,7 +8,7 @@
 - A passionate Self-taught full stack developer .
 -   Exploring new technologies and developing programming insights .
 - 📫 How to reach me alaa.elzeftawy@gmail.com
-- 👨‍💻 All of my projects are currently available at [https://github.com/alaahamed800](https://github.com/alaahamed800)
+- 👨‍💻 All of my projects are currently available at [https://github.com/alaahamed1](https://github.com/alaahamed1)
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alaa-hamed-92a6b9233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/alaa-hamed-92a6b9233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
@@ -75,18 +75,18 @@
 
 <div align="center>
 <a> 
-    <a href="https://github.com/alaahamed800"><img src="https://github-readme-streak-stats.herokuapp.com?user=alaahamed800&theme=solarized-light&border_radius=10)](https://git.io/streak-stats" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alaahamed800"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaahamed800&theme=flag_india&utcOffset=8" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alaahamed1"><img src="https://github-readme-streak-stats.herokuapp.com?user=alaahamed1&theme=solarized-light&border_radius=10)](https://git.io/streak-stats" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaahamed1&theme=flag_india&utcOffset=8" height="192px" width="49.5%"/></a>
 </a>
 
 
 <!-- ------------------------------------------- -->
 <a> 
-    <a href="https://github.com/alaahamed800"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alaahamed800"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed800&theme=flag_india" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed1&theme=flag_india" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed1&theme=flag_india" height="192px" width="49.5%"/></a>
 
   <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed800&theme=flag_india"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed1&theme=flag_india"/>
 </p>
 </a>
 
@@ -98,20 +98,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=alaahamed800" />
+    <img src="https://github-profile-trophy.vercel.app/?username=alaahamed1" />
   </a>
 </p>
 <br>
 <!--profile visit count-->
 <div align="center" >
   
-<p> <img src="https://komarev.com/ghpvc/?username=alaahamed800&label=views&color=e7d2cc&style=flat" alt="alaahamed800" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=alaahamed1&label=views&color=e7d2cc&style=flat" alt="alaahamed1" /> </p>
  <b>✨thanks for visiting me</b>
 </div>
 
 ---
 
-Credit: [Alaa Hamed](https://github.com/alaahamed800)
+Credit: [Alaa Hamed](https://github.com/alaahamed1)
 
 Last Edited on: 01/11/2023
 
