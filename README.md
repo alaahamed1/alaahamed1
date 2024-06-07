@@ -114,7 +114,5 @@
 
 ---
 
-Credit: [Alaa Hamed](https://github.com/alaahamed1)
-
 Last Edited on: 01/11/2023
 
