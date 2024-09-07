@@ -74,11 +74,11 @@
 
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **Github Stats**
+  <p  align="center">
 <a>
-    <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed1&theme=flag_india" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed1&theme=flag_india" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed1&theme=flag_india" height="192px" width="40%"/></a>
+  <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed1&theme=flag_india" height="192px" width="40%"/></a>
 
-  <p align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed1&theme=flag_india"/>
 </p>
 </a>
