@@ -51,10 +51,10 @@
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bootstrap"width="50"/>
 &nbsp;
 &nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"width="50"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " width="50" alt="css3"/>
 &nbsp;
 &nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="50"/> </a>  
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="50"/>
 &nbsp;
 &nbsp;
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"width="50"/>
