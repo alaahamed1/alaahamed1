@@ -9,7 +9,7 @@
 - 🌐 Networking enthusiast with a solid foundation in Python, C, Data Structures, and Algorithms.
 - 💡 Turning complex problems into elegant solutions.
 - 🎓 Exploring new technologies and developing programming insights.
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 📫 Get in Touch
 How to reach me
 
