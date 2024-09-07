@@ -13,12 +13,10 @@
 ## 📫 Get in Touch
 How to reach me
 
-- 📧 Email: <a href="mailto:alaa.elzeftawy@gmail.com"><img src="https://www.vectorlogo.zone/logos/google_plus/google_plus-ar21.svg" width="60"></a>
+- <p style="display:flex; justfy-content:center">📧 Email &nbsp;<a href="mailto:alaa.elzeftawy@gmail.com"><img src="https://www.vectorlogo.zone/logos/google_plus/google_plus-ar21.svg" width="60" ></a></p>
+- <p style="display:flex; justfy-content:center">📝 I regularly write articles on &nbsp;<a href="https://www.linkedin.com/in/alaa-hamed-92a6b9233"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="60" alt="my_github"/></p>
 
-- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/alaa-hamed-92a6b9233"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="60" alt="my_github"/>
-
-
-- 👨‍💻 All of my projects are currently available at <a href="https://github.com/alaahamed1"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="60" alt="my_github"/>
+- <p style="display:flex; justfy-content:center">👨‍💻 Most of my projects are currently available at &nbsp;<a href="https://github.com/alaahamed1"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="60" alt="my_github"/></p>
 
 
 
