@@ -3,14 +3,23 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&weight=500&size=22&pause=1000&color=268bd2&center=true&vCenter=true&random=false&width=435&lines=Hey%2C+It's+ALAA+HAMED;%E3%80%8C+Web+Application+Developer++%E3%80%8D" alt="Typing SVG" />
 </p>
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 45px></picture> **About me**
+## 🚀 About Me
 
-- A passionate Self-taught software engineer .
--   Exploring new technologies and developing programming insights .
-- 📫 How to reach me <br> <a href="mailto:alaa.elzeftawy@gmail.com"><img src="https://www.vectorlogo.zone/logos/google_plus/google_plus-ar21.svg" height="35"></a>
+- 📚 A passionate Self-taught software engineer.
+- 🌐 Networking enthusiast with a solid foundation in Python, C, Data Structures, and Algorithms.
+- 💡 Turning complex problems into elegant solutions.
+- 🎓 Exploring new technologies and developing programming insights.
+---
+## 📫 Get in Touch
+How to reach me
 
-- 👨‍💻 All of my projects are currently available at <br><a href="https://github.com/alaahamed1"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="my_github"/>
-- 📝 I regularly write articles on <br><a href="https://www.linkedin.com/in/alaa-hamed-92a6b9233"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" alt="my_github"/>
+- 📧 Email: <a href="mailto:alaa.elzeftawy@gmail.com"><img src="https://www.vectorlogo.zone/logos/google_plus/google_plus-ar21.svg" width="60"></a>
+
+- 📝 I regularly write articles on <a href="https://www.linkedin.com/in/alaa-hamed-92a6b9233"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" width="60" alt="my_github"/>
+
+
+- 👨‍💻 All of my projects are currently available at <a href="https://github.com/alaahamed1"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="60" alt="my_github"/>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -76,10 +85,10 @@
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **Github Stats**
   <p  align="center">
 <a>
-    <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed1&theme=flag_india" height="192px" width="35%"/></a>
-  <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed1&theme=flag_india" height="192px" width="35%"/></a>
+    <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed1&theme=flag_india" height="192px" width="40%"/></a>
+  <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed1&theme=flag_india" height="192px" width="40%"/></a>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed1&theme=flag_india" width="70%"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed1&theme=flag_india"/>
 </p>
 </a>
 
