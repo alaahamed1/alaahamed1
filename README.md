@@ -74,16 +74,7 @@
 
 
 ## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"></picture> **Github Stats**
-
-<div align="center>
-<a> 
-    <a href="https://github.com/alaahamed1"><img src="https://github-readme-streak-stats.herokuapp.com?user=alaahamed1&theme=solarized-light&border_radius=10)](https://git.io/streak-stats" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alaahamed1&theme=flag_india&utcOffset=8" height="192px" width="49.5%"/></a>
-</a>
-
-
-<!-- ------------------------------------------- -->
-<a> 
+<a>
     <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed1&theme=flag_india" height="192px" width="49.5%"/></a>
   <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed1&theme=flag_india" height="192px" width="49.5%"/></a>
 
