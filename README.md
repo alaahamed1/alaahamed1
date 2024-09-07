@@ -51,7 +51,7 @@
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="bootstrap"width="50"/>
 &nbsp;
 &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg " width="50" alt="css3"/>
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="50" alt="css3"/>
 &nbsp;
 &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"width="50"/>
