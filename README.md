@@ -35,6 +35,9 @@ How to reach me
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="50">
 &nbsp;
 &nbsp;
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" width="50">
+&nbsp;
+&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react"width="50"/>
 &nbsp;
 &nbsp;
