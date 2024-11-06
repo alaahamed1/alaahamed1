@@ -51,7 +51,9 @@ How to reach me
 &nbsp;
 &nbsp;
 <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50"/>
-
+&nbsp;
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="redux" width="50"/>
 </p>
 
   <p  align="center">
@@ -77,6 +79,15 @@ How to reach me
 &nbsp;
 &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50"/>
+&nbsp;
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="redux" width="50"/>
+&nbsp;
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="redux" width="50"/>
+&nbsp;
+&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="redux" width="50"/>
 </p>
 
 
