@@ -100,7 +100,6 @@ How to reach me
     <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alaahamed1&theme=flag_india" height="192px" width="40%"/></a>
   <a href="https://github.com/alaahamed1"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alaahamed1&theme=flag_india" height="192px" width="40%"/></a>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaahamed1&theme=flag_india"/>
 </p>
 </a>
 
