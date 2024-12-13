@@ -2,8 +2,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=700&size=25&pause=1000&color=296953&background=20D5FF00&width=435&lines=Hey%2C+It's+ALaa+Hamed;Software+Engineer+" alt="Typing SVG" />
 </p>
-
-// <img src="/MoSalem149/MoSalem149/raw/main/Assets/github-contribution-grid-snake-light.svg" alt="snake" style="max-width: 100%;">
 	
 ## 🚀 About Me
 
